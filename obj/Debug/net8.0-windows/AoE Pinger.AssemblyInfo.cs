@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AoE Pinger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14fa9d306d1aa258b88dd130ac54f2bd11f87804")]
 [assembly: System.Reflection.AssemblyProductAttribute("AoE Pinger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AoE Pinger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

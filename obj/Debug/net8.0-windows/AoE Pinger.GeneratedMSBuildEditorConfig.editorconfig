@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AoE_Pinger
-build_property.ProjectDir = C:\Users\Valia\Documents\Projects Documents\AoE Pinger\
+build_property.ProjectDir = C:\Users\Valia\Documents\Projects Documents\AoE4Pinger\AoE4Pinger\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

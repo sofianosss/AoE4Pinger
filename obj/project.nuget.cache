@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GYF0ukr52kKnAND/9yej6zxsJjiDddzyYGV+N9GmuVrDw1/AQVREuuugr+QNxMGJvl8WzzG0P98jgfiGZa61ow==",
+  "dgSpecHash": "Izmw4bHtViQEfAis6gikdCdS6Ahx/lLE+o0UVx+mtmrxcEADPXKZMzjqqz4DYxeN3CnuiiB7tJ7o+lazdu+PdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Valia\\Documents\\Projects Documents\\AoE Pinger\\AoE Pinger.csproj",
+  "projectFilePath": "C:\\Users\\Valia\\Documents\\Projects Documents\\AoE4Pinger\\AoE4Pinger\\AoE Pinger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Valia\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512"
   ],

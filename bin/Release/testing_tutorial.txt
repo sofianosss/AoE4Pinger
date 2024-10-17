@@ -1,0 +1,30 @@
+00:00:01||Seven on food, next 3 on gold
+00:00:20||Villager
+00:00:25||Build mining camp
+00:00:40||Villager
+00:01:00||Villager
+00:01:20||Villager
+00:01:40||Villager
+00:02:00||Villager
+00:02:02||Up to 9 on Food then 3 Wood
+00:02:08||Move Gold villagers to wood
+00:02:15||Build coucil hall with 4 villagers
+00:02:20||Villager
+00:02:25||Have 6 on Food and all spawns on Wood
+00:02:40||Villager
+00:03:00||Villager
+00:03:20||Villager
+00:03:25||Build a Barrack
+00:03:35||Your Goal is 10 on Food and 8 on Wood
+00:03:40||Villager
+00:03:55||You should reach Feudal age
+00:04:00||Villager
+00:04:10||Balance Food and Wood and make spears and archers
+00:04:20||Villager
+00:04:40||Villager
+00:05:00||Villager
+00:05:20||Villager
+00:05:30||Slowly build farms
+00:05:40||Villager
+00:06:00||Villager
+00:05:55||Good luck
