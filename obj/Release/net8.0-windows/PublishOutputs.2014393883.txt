@@ -1,0 +1,7 @@
+E:\Workspace Photoshop\Gaming Build Orders\AoE Pinger\AoE Pinger.exe
+E:\Workspace Photoshop\Gaming Build Orders\AoE Pinger\AoE Pinger.dll
+E:\Workspace Photoshop\Gaming Build Orders\AoE Pinger\AoE Pinger.deps.json
+E:\Workspace Photoshop\Gaming Build Orders\AoE Pinger\AoE Pinger.runtimeconfig.json
+E:\Workspace Photoshop\Gaming Build Orders\AoE Pinger\AoE Pinger.pdb
+E:\Workspace Photoshop\Gaming Build Orders\AoE Pinger\System.Speech.dll
+E:\Workspace Photoshop\Gaming Build Orders\AoE Pinger\runtimes\win\lib\net8.0\System.Speech.dll

@@ -1,0 +1,27 @@
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\bin\Debug\net8.0-windows\AoE Pinger.exe
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\bin\Debug\net8.0-windows\AoE Pinger.deps.json
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\bin\Debug\net8.0-windows\AoE Pinger.runtimeconfig.json
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\bin\Debug\net8.0-windows\AoE Pinger.dll
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\bin\Debug\net8.0-windows\AoE Pinger.pdb
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\AoE Pinger_MarkupCompile.cache
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\AoE Pinger.g.resources
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\AoE Pinger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\AoE Pinger.AssemblyInfoInputs.cache
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\AoE Pinger.AssemblyInfo.cs
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\AoE Pinger.csproj.CoreCompileInputs.cache
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\AoE Pinger.dll
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\refint\AoE Pinger.dll
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\AoE Pinger.pdb
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\AoE Pinger.genruntimeconfig.cache
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\ref\AoE Pinger.dll
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\Windows\CustomMessageBox.baml
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\Windows\MainWindow.baml
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\Windows\CustomMessageBox.g.cs
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\Windows\MainWindow.g.cs
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\Windows\CustomFileBrowser.baml
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\Windows\CustomFileBrowser.g.cs
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\AoE Pinger.csproj.AssemblyReference.cache
+C:\Users\Valia\Documents\Projects Documents\AoE Pinger\obj\Debug\net8.0-windows\AoE Pinger.csproj.Up2Date
